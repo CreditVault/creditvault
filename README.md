@@ -1,7 +1,6 @@
-<div align="center">
-
-<img src="./assets/logo.png" width="160"/>
-
+<p align="center">
+  <img src="assets/banner.png" alt="CreditVault Banner" width="100%">
+</p>
 # CreditVault
 
 ### 🚀 The Open Source Platform for Startup Credits, Student Offers & Developer Perks
