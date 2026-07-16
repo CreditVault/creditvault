@@ -1,103 +1,273 @@
-::: {align="center"}
-`<img src="./assets/logo.png" width="150"/>`{=html}
-🚀 CreditVault
-The Open Source Platform for Startup Credits, Student Offers & Developer Perks
-```{=html}
+<div align="center">
+
+<img src="./assets/logo.png" width="160"/>
+
+# CreditVault
+
+### 🚀 The Open Source Platform for Startup Credits, Student Offers & Developer Perks
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Unlock+Startup+Credits.;Discover+Student+Offers.;Find+AI+%26+Cloud+Credits.;Official+Sources.+Open+Source.+Community+Driven." />`{=html}
-```{=html}
+Discover verified startup credits, AI credits, cloud credits, student offers, developer tools, grants, incubators, accelerators and exclusive technology programs from official sources.
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://creditvault.tech">`{=html}`<img src="https://img.shields.io/badge/Website-Coming_Soon-2563EB?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/CreditVault/creditvault">`{=html}`<img src="https://img.shields.io/github/stars/CreditVault/creditvault?style=for-the-badge"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/CreditVault/creditvault/blob/main/LICENSE">`{=html}`<img src="https://img.shields.io/github/license/CreditVault/creditvault?style=for-the-badge"/>`{=html}`</a>`{=html}
-```{=html}
+
+<a href="https://creditvault.tech">
+<img src="https://img.shields.io/badge/Website-Live-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/CreditVault/creditvault">
+<img src="https://img.shields.io/github/stars/CreditVault/creditvault?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/CreditVault/creditvault/network/members">
+<img src="https://img.shields.io/github/forks/CreditVault/creditvault?style=for-the-badge"/>
+</a>
+
+<a href="LICENSE">
+<img src="https://img.shields.io/github/license/CreditVault/creditvault?style=for-the-badge"/>
+</a>
+
 </p>
-```
-:::
+
 ---
-🌍 About
-CreditVault is an open-source platform that helps founders,
-students, developers, educators and open-source maintainers discover
-verified startup credits, AI credits, cloud credits, developer perks,
-grants, incubators, accelerators and educational benefits.
-Unlike traditional directories, CreditVault is evolving into an
-AI-powered discovery platform that helps users find opportunities
-they're actually eligible for.
+
+## 🌍 One Platform. Every Opportunity.
+
+CreditVault is building the world's largest open-source directory for startup founders, developers, students, educators, nonprofits and open-source maintainers.
+
+Instead of searching dozens of websites, discover every verified opportunity in one beautiful platform.
+
 ---
-✨ Features
+
+## ✨ Features
+
 🚀 Startup Credits
+
 🎓 Student Offers
+
 🤖 AI Credits
+
 ☁️ Cloud Credits
+
 💻 Developer Tools
-🏢 Accelerators & Incubators
-📚 Learning Programs
-❤️ Bookmark & Save
+
+🛠 Open Source Programs
+
+🏢 Accelerators
+
+🌍 Incubators
+
+🎁 Founder Perks
+
+📚 Learning Resources
+
+🏆 Hackathons
+
 🔍 Lightning Fast Search
-🧠 AI Assistant (Roadmap)
-📊 Eligibility Checker (Roadmap)
-📅 Application Tracker (Roadmap)
+
+❤️ Bookmark Offers
+
+📂 Smart Categories
+
+🌙 Dark Mode
+
+⚡ Instant Search
+
 ---
-🏆 Featured Companies
-AWS • Google Cloud • Microsoft • OpenAI • Anthropic • MongoDB • Supabase
-• Vercel • Cloudflare • Neon • Railway • GitHub • JetBrains • Notion •
-Figma • Canva • Stripe • PostHog • Clerk
+
+# 🏆 Featured Companies
+
+<p align="center">
+
+OpenAI • Anthropic • AWS • Google Cloud • Microsoft • Cloudflare • Vercel • Supabase • Neon • MongoDB • Railway • DigitalOcean • GitHub • JetBrains • Notion • Figma • Canva • Stripe • PostHog • Clerk
+
+</p>
+
 ---
-🤖 CreditVault AI
-Soon you'll be able to ask:
-"Show every AWS offer."
-"Compare Google Cloud vs AWS."
-"What am I eligible for as a student?"
-"Best AI credits for startups."
-"Find offers for open-source maintainers."
-The assistant will answer using verified official sources.
+
+# 📊 Platform
+
+| |
+|---|
+| 🚀 650+ Verified Offers |
+| 🏢 600+ Companies |
+| 💰 $1M+ Estimated Credits |
+| 📂 20+ Categories |
+| 🔗 Official Sources Only |
+| ❤️ Community Verified |
+
 ---
-🛠 Tech Stack
+
+# 🤖 CreditVault AI (Coming Soon)
+
+The future of startup discovery.
+
+Ask naturally.
+
+> Show every AWS offer.
+
+> Compare AWS vs Google Cloud.
+
+> What can I get as a student?
+
+> I'm building an AI startup.
+
+> Recommend free credits.
+
+The AI searches verified data and responds with official sources.
+
+---
+
+# 🔥 Why CreditVault?
+
+✅ Official company links only
+
+✅ Updated continuously
+
+✅ Community verified
+
+✅ Open Source
+
+✅ No signup required
+
+✅ Free forever
+
+---
+
+# 📂 Categories
+
+• AI
+
+• Cloud
+
+• Dev Tools
+
+• Analytics
+
+• Design
+
+• Security
+
+• Productivity
+
+• Marketing
+
+• APIs
+
+• Education
+
+• Hosting
+
+• Databases
+
+• Open Source
+
+• Finance
+
+• Startup Programs
+
+• Student Programs
+
+---
+
+# 🚀 Roadmap
+
+## Phase 1
+
+- Verified Directory
+- Search
+- Categories
+- Company Pages
+- Official Sources
+
+## Phase 2
+
+- AI Search
+- AI Chat
+- Smart Eligibility Checker
+- Founder Dashboard
+- Application Tracker
+- Notifications
+
+## Phase 3
+
+- Browser Extension
+- Public API
+- Mobile App
+- Community Reviews
+- AI Founder Copilot
+
+---
+
+# 🛠 Tech Stack
+
 Next.js
+
 React
+
 TypeScript
+
 Tailwind CSS
+
 shadcn/ui
-Framer Motion
+
 Supabase
+
 PostgreSQL
+
 Lovable
+
+Framer Motion
+
 Vercel
+
+Firecrawl
+
+OpenAI
+
 ---
-🗺 Roadmap
-Phase 1
-Startup credit directory
-Company pages
-Categories
-Official links
-Phase 2
-AI Search
-Eligibility Checker
-Personalized Dashboard
-Notifications
-Phase 3
-Public API
-Browser Extension
-Mobile App
-Community Reviews
+
+# 🤝 Contributing
+
+We welcome developers, founders, students and designers.
+
+You can help by
+
+• Adding programs
+
+• Reporting expired offers
+
+• Improving documentation
+
+• Fixing bugs
+
+• Creating pull requests
+
 ---
-🤝 Contributing
-Contributions are welcome!
-Add new verified programs
-Improve documentation
-Report outdated offers
-Submit pull requests
-Please read `CONTRIBUTING.md` before contributing.
+
+# ❤️ Mission
+
+Every startup should know every opportunity available to them.
+
+We're building the infrastructure that makes startup resources open, searchable and accessible to everyone.
+
 ---
-📜 License
+
+# 📜 License
+
 MIT License
+
 ---
-::: {align="center"}
-⭐ Star this repository if you find CreditVault useful.
-Built with ❤️ by the CreditVault Community
-:::
+
+<div align="center">
+
+## ⭐ Star CreditVault
+
+If you believe startup opportunities should be open for everyone, please consider starring this repository.
+
+<img src="./assets/logo.png" width="90"/>
+
+### Built with ❤️ by the CreditVault Community
+
+</div>
